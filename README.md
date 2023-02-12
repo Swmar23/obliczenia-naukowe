@@ -3,6 +3,9 @@ Zbiorcze repozytorium rozwiązań zadań z Obliczeń Naukowych (metody numeryczn
 
 Programy napisane w języku Julia ([instrukcja](https://julialang.org/downloads/) instalacji języka).
 
+### Lista 3
+Iteracyjne metody poszukiwania miejsca zerowego zadanej funkcji: metoda bisekcji, Newtona (stycznych), siecznych. Testowanie rodzaju zbieżności (zbieżność lokalna/globalna) oraz wykładnika zbieżności dla zadanych w treści zadań funkcji.
+
 ### Lista 4
 Zagadnienie numerycznej interpolacji wielomianami stopnia co najwyżej n. Wyznaczanie ilorazów różnicowych jako współczynników kombinacji liniowej bazy wielomianów w postaci Newtona. Zoptymalizowane obliczanie wartości wielomianu interpolacyjnego w zadanym punkcie. Przekształcanie postaci Newtona na postać naturalną. Rysowanie wykresów obrazujących skuteczność interpolacji wielomianowej dla zadanej funkcji i maksymalnego stopnia wielomianu przy strategii doboru węzłów równoodległych.
 
