@@ -1,5 +1,5 @@
 # obliczenia-naukowe
-Zbiorcze repozytorium rozwiązań zadań z Obliczeń Naukowych (metody numeryczne). Kurs prowadzony przez prof. dra hab. Pawła Zielińskiego.
+Zbiorcze repozytorium rozwiązań zadań z Obliczeń Naukowych (metody numeryczne). Kurs prowadzony przez prof. dra hab. Pawła Zielińskiego na kierunku Informatyka Algorytmiczna, Wydział Informatyki i Telekomunikacji Politechniki Wrocławskiej.
 
 Programy napisane w języku Julia ([instrukcja](https://julialang.org/downloads/) instalacji języka).
 
